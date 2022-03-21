@@ -180,8 +180,6 @@ namespace Mixin.UI
             {
                 base.OnInspectorGUI();
 
-
-
                 FlexibleGrid grid = (FlexibleGrid)target;
 
                 // Show the Columns Field
