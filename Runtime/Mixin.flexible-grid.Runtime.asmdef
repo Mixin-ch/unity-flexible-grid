@@ -1,0 +1,16 @@
+{
+    "name": "Mixin.flexible-grid.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fba75d1dacb48cc419eba0da9788a82e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
