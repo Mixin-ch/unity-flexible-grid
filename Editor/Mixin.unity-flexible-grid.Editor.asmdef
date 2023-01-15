@@ -1,0 +1,18 @@
+{
+    "name": "Mixin.unity-flexible-grid.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:af4b9eb214194404781d3813decccd18"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
